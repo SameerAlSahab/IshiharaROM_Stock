@@ -27,3 +27,6 @@ IshiharaROM Builder for Every Galaxy Devices to unlock its full and true potenti
 22. Added ANGLE
 23. Flagship Edge Full Lighting
 24. Voice Focus on Calls and Noise Reduction
+25. Gallery Cut/Pase Objects etc
+26. Camera and Mic Privacy Toggles etc
+27. Extra Dim and Extra Brightness
