@@ -18,4 +18,9 @@ IshiharaROM Builder for Every Galaxy Devices to unlock its full and true potenti
 13. Flagship Ripple FOD Animation
 14. Unlocked ThemeCenter
 15. Clone all apps on Dual Messenger etc
-16. && More
+16. S24 Ultra Interactive Live Walls
+17. Fun Mode on Mass Camera
+18. Option to choose flagship camera or mass camera
+19. Option to add Live Blur or default mid range one
+20. Unlocked Video Brightness
+21. && More
