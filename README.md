@@ -9,7 +9,7 @@ IshiharaROM Builder for Every Galaxy Devices to unlock its full and true potenti
 4. Galaxy AI Features (Circle to search, Photo AI , Sketch to draw , Notes , browser , Voice recoder , Call tanscription , keyboard and Interpretor etc
 5. Smart Manager CN with AppLock
 6. Adaptive Refresh Rate Support
-7. Full Bixby features Support
+7. Full Bixby features Support with Bixby Vision
 8. Fixed Secure Folder
 9. Fixed Private Share , Health , Smart View etc
 10. Higher FPS in Games
@@ -23,4 +23,7 @@ IshiharaROM Builder for Every Galaxy Devices to unlock its full and true potenti
 18. Option to choose flagship camera or mass camera
 19. Option to add Live Blur or default mid range one
 20. Unlocked Video Brightness
-21. && More
+21. Added custom fonts (place ttf files in script directories to add custom fonts to be added on ROM)
+22. Added ANGLE
+23. Flagship Edge Full Lighting
+24. Voice Focus on Calls and Noise Reduction
